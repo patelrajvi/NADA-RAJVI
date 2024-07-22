@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1 style="background-color:Tomato;"><b>Junk food and your health</b></h1>
+<h2  style="background-color:DodgerBlue;"><i>What is junk food?</i></h2>
+<p>'Junk foods' are foods that lack nutrients, vitamins and minerals, and are high in kilojoules (energy), salts, sugars, or fats. Junk food is so called because it doesn't play a role in healthy eating, especially if you eat too much of it. Junk food is also known as 'discretionary food' or optional food'</p>
+<p><b>Some examples of junk food include:</b></p>
+<p><div>cakes and biscuits</div><div>fast foods (such as hot chips, burgers and pizzas) </div>
+<div>chocolate and sweets</div>
+<div>processed meat (such as bacon)</div>
+<div>snacks (such as chips)</div>
+<div>sugary drinks (such as sports, energy and soft drinks)</div><div>alcoholic drinks</div>
+<img src="https://images.firstpost.com/uploads/2024/03/JunkFood1200AP-2024-03-bf45171e1d29e4dca6c2a0189b318082.jpg?im=FitAndFill=(596,336)"
+alt="junk food" width="400" height="300" >
+<img src="https://gumlet.assettype.com/down-to-earth%2Fimport%2Flibrary%2Flarge%2F2023-03-30%2F0.04816300_1680154510_food.jpg?w=1200&auto=format%2Ccompress&fit=max"alt="junk food" width="400" height="300">
+<h3 style="background-color:DodgerBlue;"><i> How do I make healthy food choices?</i></h3><p>It's important to understand the nutritional value of the food you are buying. You can do this by reading the nutrition panel found on the back of all packaged items in Australia.
+Food labels can tell you things like the amount of energy, protein, fat, carbohydrates, sugars, fibre and sodium (salt) in each product, as well as the recommended serving size. </p>
+
+
+</body>
+</html>
+
